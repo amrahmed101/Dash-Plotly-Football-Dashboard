@@ -1,0 +1,101 @@
+Name,Age,Nationality,Height,Weight,Url,Team Id,Team Name,League Id,League Name,Appearances,Minutes Played,Position,Rating,Shots On Target,Total Shots,Goals,Assists,Key Passes,Dribbles,Penalty Scored,Penalty Missed
+K. Mbappé,23,France,178 cm,73 kg,https://media.api-sports.io/football/players/278.png,85,Paris Saint Germain,61,Ligue 1,31,2389,Attacker,7.393548,55,90,27,7.0,35,90,6,0
+M. Depay,27,Netherlands,176 cm,78 kg,https://media.api-sports.io/football/players/667.png,80,Lyon,61,Ligue 1,37,2931,Attacker,7.613513,54,94,20,12.0,97,76,8,0
+W. Ben Yedder,31,France,170 cm,68 kg,https://media.api-sports.io/football/players/2059.png,91,Monaco,61,Ligue 1,37,2625,Attacker,7.140540,33,59,20,7.0,43,30,10,2
+G. Laborde,27,France,182 cm,81 kg,https://media.api-sports.io/football/players/21592.png,82,Montpellier,61,Ligue 1,38,3270,Attacker,7.121052,41,77,16,8.0,37,33,0,0
+K. Volland,29,Germany,178 cm,85 kg,https://media.api-sports.io/football/players/989.png,91,Monaco,61,Ligue 1,35,2789,Attacker,7.051428,30,43,16,7.0,33,17,0,0
+B. Yılmaz,36,Turkey,188 cm,80 kg,https://media.api-sports.io/football/players/2006.png,79,Lille,61,Ligue 1,28,2056,Attacker,7.182142,33,55,16,5.0,28,15,4,0
+L. Ajorque,27,France,197 cm,82 kg,https://media.api-sports.io/football/players/22264.png,95,Strasbourg,61,Ligue 1,35,2972,Attacker,7.200000,36,57,16,4.0,36,10,4,1
+A. Delort,30,Algeria,182 cm,82 kg,https://media.api-sports.io/football/players/21591.png,82,Montpellier,61,Ligue 1,30,2494,Attacker,7.430000,37,69,15,9.0,55,31,0,1
+K. Toko Ekambi,29,Cameroon,185 cm,74 kg,https://media.api-sports.io/football/players/1709.png,80,Lyon,61,Ligue 1,35,2829,Attacker,7.214285,39,72,14,6.0,49,61,0,0
+T. Moffi,22,Nigeria,188 cm,87 kg,https://media.api-sports.io/football/players/69971.png,97,Lorient,61,Ligue 1,32,2091,Attacker,6.846875,25,45,14,2.0,26,24,1,0
+B. Dia,25,Senegal,180 cm,75 kg,https://media.api-sports.io/football/players/22015.png,93,Reims,61,Ligue 1,36,2947,Attacker,6.944444,27,49,14,1.0,29,46,5,0
+J. David,21,Canada,177 cm,,https://media.api-sports.io/football/players/8489.png,79,Lille,61,Ligue 1,37,2367,Attacker,6.894444,33,47,13,2.0,35,24,0,0
+M. Kean,21,Italy,182 cm,67 kg,https://media.api-sports.io/football/players/877.png,85,Paris Saint Germain,61,Ligue 1,26,1708,Attacker,6.933333,24,47,13,,8,27,0,0
+Hwang Ui-Jo,29,Korea Republic,184 cm,73 kg,https://media.api-sports.io/football/players/2910.png,78,Bordeaux,61,Ligue 1,36,2524,Attacker,6.766666,30,60,12,3.0,21,26,3,0
+A. Gouiri,21,France,180 cm,72 kg,https://media.api-sports.io/football/players/85041.png,84,Nice,61,Ligue 1,34,2753,Attacker,7.144117,34,66,12,7.0,51,52,4,0
+R. Ripart,28,France,181 cm,73 kg,https://media.api-sports.io/football/players/21451.png,92,Nimes,61,Ligue 1,38,3063,Attacker,6.759459,26,48,11,,18,28,6,1
+G. Kakuta,30,Congo DR,173 cm,64 kg,https://media.api-sports.io/football/players/47545.png,116,Lens,61,Ligue 1,35,2414,Midfielder,7.008571,15,41,11,5.0,51,52,7,2
+L. Blas,24,France,180 cm,70 kg,https://media.api-sports.io/football/players/21497.png,83,Nantes,61,Ligue 1,36,2803,Midfielder,6.932432,26,52,10,4.0,32,97,0,0
+T. Kadewere,25,Zimbabwe,183 cm,72 kg,https://media.api-sports.io/football/players/3084.png,80,Lyon,61,Ligue 1,33,2018,Attacker,7.000000,23,45,10,3.0,22,29,0,0
+S. Guirassy,25,France,187 cm,82 kg,https://media.api-sports.io/football/players/21393.png,94,Rennes,61,Ligue 1,27,1765,Attacker,7.059259,25,44,10,1.0,27,24,1,0
+Luciano,28,Brazil,181 cm,77 kg,https://media.api-sports.io/football/players/10323.png,126,Sao Paulo,71,Serie A,31,2506,Attacker,6.900000,0,0,18,,1,0,0,0
+Claudinho,24,Brazil,172 cm,65 kg,https://media.api-sports.io/football/players/9475.png,794,RB Bragantino,71,Serie A,35,2852,Midfielder,7.568571,38,78,18,6.0,106,55,4,1
+Marinho,31,Brazil,168 cm,66 kg,https://media.api-sports.io/football/players/10506.png,128,Santos,71,Serie A,27,2148,Attacker,7.496296,38,75,17,7.0,33,43,6,0
+Thiago Galhardo,32,Brazil,183 cm,78 kg,https://media.api-sports.io/football/players/80166.png,119,Internacional,71,Serie A,29,1864,Attacker,7.120689,35,60,17,5.0,18,12,6,1
+G. Cano,33,Argentina,176 cm,72 kg,https://media.api-sports.io/football/players/13523.png,133,Vasco DA Gama,71,Serie A,34,2872,Attacker,6.861764,38,64,14,1.0,16,15,1,1
+Gabriel Barbosa,25,Brazil,178 cm,74 kg,https://media.api-sports.io/football/players/10174.png,127,Flamengo,71,Serie A,25,1770,Attacker,6.748000,36,70,14,2.0,14,19,6,0
+Pedro,24,Brazil,185 cm,78 kg,https://media.api-sports.io/football/players/10321.png,127,Flamengo,71,Serie A,34,1583,Attacker,6.838235,35,52,13,2.0,19,13,0,2
+Diego Souza,36,Brazil,186 cm,87 kg,https://media.api-sports.io/football/players/10072.png,130,Gremio,71,Serie A,25,2001,Attacker,7.140000,23,44,13,3.0,28,14,2,1
+Vina,30,Brazil,177 cm,73 kg,https://media.api-sports.io/football/players/9886.png,129,Ceara,71,Serie A,31,2606,Midfielder,7.461290,38,75,13,9.0,81,22,4,1
+Brenner,21,Brazil,175 cm,70 kg,https://media.api-sports.io/football/players/9975.png,126,Sao Paulo,71,Serie A,27,1926,Attacker,7.040740,29,54,11,3.0,13,14,0,0
+Raphael Veiga,26,Brazil,176 cm,73 kg,https://media.api-sports.io/football/players/9920.png,121,Palmeiras,71,Serie A,26,1540,Midfielder,7.126923,23,40,11,1.0,29,18,3,0
+Yuri Alberto,20,Brazil,180 cm,78 kg,https://media.api-sports.io/football/players/10007.png,119,Internacional,71,Serie A,23,1301,Attacker,6.960869,25,45,10,2.0,17,8,0,0
+Fernandão,34,Brazil,192 cm,85 kg,https://media.api-sports.io/football/players/10044.png,151,Goias,71,Serie A,24,1666,Attacker,6.700000,0,1,10,,1,0,0,0
+Matheus Babi,24,Brazil,192 cm,78 kg,https://media.api-sports.io/football/players/159718.png,120,Botafogo,71,Serie A,34,2210,Attacker,6.858823,20,44,10,1.0,23,19,1,0
+Luiz Adriano,34,Brazil,184 cm,80 kg,https://media.api-sports.io/football/players/1793.png,121,Palmeiras,71,Serie A,24,1546,Attacker,6.979166,17,25,10,3.0,20,10,2,1
+Keno,32,Brazil,179 cm,72 kg,https://media.api-sports.io/football/players/16847.png,1062,Atletico-MG,71,Serie A,33,2562,Attacker,7.345454,40,77,10,9.0,59,97,4,2
+Eduardo Sasha,29,Brazil,173 cm,70 kg,https://media.api-sports.io/football/players/10004.png,1062,Atletico-MG,71,Serie A,34,2054,Attacker,6.817647,25,43,9,3.0,30,7,0,1
+Bruno Henrique,31,Brazil,183 cm,74 kg,https://media.api-sports.io/football/players/10180.png,127,Flamengo,71,Serie A,31,2587,Attacker,7.122580,29,65,9,7.0,42,42,1,1
+Pepê Aquino,24,Brazil,164 cm,62 kg,https://media.api-sports.io/football/players/10500.png,130,Gremio,71,Serie A,31,2428,Attacker,7.007142,15,29,9,4.0,33,59,1,0
+Gilberto,32,Brazil,178 cm,75 kg,https://media.api-sports.io/football/players/10041.png,118,Bahia,71,Serie A,33,2326,Attacker,6.993939,37,75,9,2.0,18,18,1,1
+H. Kane,28,England,188 cm,86 kg,https://media.api-sports.io/football/players/184.png,47,Tottenham,39,Premier League,35,3087,Attacker,7.642857,53,110,23,14.0,51,52,4,0
+Mohamed Salah,29,Egypt,175 cm,71 kg,https://media.api-sports.io/football/players/306.png,40,Liverpool,39,Premier League,37,3082,Attacker,7.159459,52,90,22,5.0,58,36,6,0
+Bruno Fernandes,27,Portugal,179 cm,69 kg,https://media.api-sports.io/football/players/1485.png,33,Manchester United,39,Premier League,37,3109,Midfielder,7.564864,51,84,18,12.0,97,23,9,1
+Son Heung-Min,29,Korea Republic,183 cm,78 kg,https://media.api-sports.io/football/players/186.png,47,Tottenham,39,Premier League,37,3126,Midfielder,7.267567,36,53,17,10.0,76,39,1,0
+P. Bamford,28,England,185 cm,71 kg,https://media.api-sports.io/football/players/19134.png,63,Leeds,39,Premier League,38,3062,Attacker,6.963157,47,90,17,7.0,30,19,2,0
+D. Calvert-Lewin,24,England,187 cm,71 kg,https://media.api-sports.io/football/players/18766.png,45,Everton,39,Premier League,33,2876,Attacker,7.103030,46,72,16,,18,22,0,0
+J. Vardy,34,England,179 cm,74 kg,https://media.api-sports.io/football/players/18788.png,46,Leicester,39,Premier League,34,2845,Attacker,7.123529,38,67,15,9.0,28,26,8,1
+O. Watkins,26,England,180 cm,70 kg,https://media.api-sports.io/football/players/19366.png,66,Aston Villa,39,Premier League,37,3329,Attacker,7.048648,46,72,14,5.0,45,39,1,1
+İ. Gündoğan,31,Germany,180 cm,80 kg,https://media.api-sports.io/football/players/633.png,50,Manchester City,39,Premier League,28,2031,Midfielder,7.332142,22,43,13,2.0,42,27,1,1
+A. Lacazette,30,France,175 cm,73 kg,https://media.api-sports.io/football/players/1467.png,42,Arsenal,39,Premier League,31,1930,Attacker,7.022580,29,40,13,2.0,23,22,3,0
+K. Iheanacho,25,Nigeria,185 cm,82 kg,https://media.api-sports.io/football/players/2778.png,46,Leicester,39,Premier League,25,1456,Attacker,7.072727,25,39,12,2.0,28,32,0,1
+D. Ings,29,England,178 cm,73 kg,https://media.api-sports.io/football/players/18955.png,41,Southampton,39,Premier League,29,2183,Attacker,6.955172,27,45,12,4.0,22,30,2,0
+C. Wood,30,New Zealand,191 cm,81 kg,https://media.api-sports.io/football/players/18931.png,44,Burnley,39,Premier League,33,2750,Attacker,6.781818,39,56,12,3.0,22,7,2,0
+C. Wilson,29,England,180 cm,66 kg,https://media.api-sports.io/football/players/2939.png,34,Newcastle,39,Premier League,26,2085,Attacker,6.992307,20,40,12,5.0,17,26,4,0
+M. Rashford,24,England,180 cm,70 kg,https://media.api-sports.io/football/players/909.png,33,Manchester United,39,Premier League,37,2927,Attacker,6.902702,37,58,11,9.0,43,82,0,0
+S. Mané,29,Senegal,175 cm,69 kg,https://media.api-sports.io/football/players/304.png,40,Liverpool,39,Premier League,35,2812,Attacker,7.222857,36,71,11,7.0,60,82,0,0
+G. Bale,32,Wales,185 cm,81 kg,https://media.api-sports.io/football/players/758.png,47,Tottenham,39,Premier League,20,921,Attacker,7.478947,19,32,11,2.0,21,27,0,0
+W. Zaha,29,Côte d'Ivoire,180 cm,66 kg,https://media.api-sports.io/football/players/3247.png,52,Crystal Palace,39,Premier League,30,2613,Attacker,6.943333,20,37,11,2.0,30,55,2,0
+Matheus Pereira,25,Brazil,175 cm,66 kg,https://media.api-sports.io/football/players/25618.png,60,West Brom,39,Premier League,33,2582,Attacker,7.193939,28,51,11,6.0,60,40,4,0
+R. Sterling,27,England,170 cm,69 kg,https://media.api-sports.io/football/players/645.png,50,Manchester City,39,Premier League,31,2537,Attacker,6.890322,28,49,10,7.0,40,66,0,1
+R. Lewandowski,33,Poland,185 cm,81 kg,https://media.api-sports.io/football/players/521.png,157,Bayern Munich,78,Bundesliga 1,29,2463,Attacker,7.841379,68,116,41,7.0,32,22,8,1
+André Silva,26,Portugal,185 cm,84 kg,https://media.api-sports.io/football/players/2063.png,169,Eintracht Frankfurt,78,Bundesliga 1,32,2771,Attacker,7.390625,62,95,28,5.0,31,26,7,0
+E. Haaland,21,Norway,194 cm,88 kg,https://media.api-sports.io/football/players/1100.png,165,Borussia Dortmund,78,Bundesliga 1,28,2410,Attacker,7.560714,50,81,27,6.0,28,30,2,2
+W. Weghorst,29,Netherlands,197 cm,84 kg,https://media.api-sports.io/football/players/25416.png,161,VfL Wolfsburg,78,Bundesliga 1,34,2949,Attacker,7.223529,46,77,20,8.0,45,18,2,1
+A. Kramarić,30,Croatia,177 cm,73 kg,https://media.api-sports.io/football/players/726.png,167,1899 Hoffenheim,78,Bundesliga 1,28,2386,Attacker,7.464285,44,74,20,6.0,41,25,5,0
+S. Kalajdzic,24,Austria,200 cm,90 kg,https://media.api-sports.io/football/players/7722.png,172,VfB Stuttgart,78,Bundesliga 1,33,2140,Attacker,7.115625,29,53,16,5.0,26,15,0,0
+L. Stindl,33,Germany,181 cm,80 kg,https://media.api-sports.io/football/players/25639.png,163,Borussia Monchengladbach,78,Bundesliga 1,30,1966,Midfielder,7.240000,28,47,14,8.0,45,10,6,1
+T. Müller,32,Germany,185 cm,76 kg,https://media.api-sports.io/football/players/522.png,157,Bayern Munich,78,Bundesliga 1,32,2683,Attacker,7.378125,18,34,11,18.0,93,27,1,0
+L. Alario,29,Argentina,184 cm,78 kg,https://media.api-sports.io/football/players/982.png,168,Bayer Leverkusen,78,Bundesliga 1,25,1242,Attacker,6.960000,20,32,11,2.0,15,16,2,0
+S. Katompa Mvumpa,23,Congo DR,189 cm,79 kg,https://media.api-sports.io/football/players/20617.png,172,VfB Stuttgart,78,Bundesliga 1,25,1930,Attacker,7.088000,19,36,11,4.0,23,48,3,0
+M. Kruse,33,Germany,180 cm,76 kg,https://media.api-sports.io/football/players/25329.png,182,Union Berlin,78,Bundesliga 1,22,1637,Attacker,7.295454,19,26,11,5.0,39,11,5,1
+S. Gnabry,26,Germany,176 cm,77 kg,https://media.api-sports.io/football/players/510.png,157,Bayern Munich,78,Bundesliga 1,27,1652,Midfielder,7.288888,27,47,10,2.0,41,24,0,0
+L. Bailey,24,Jamaica,178 cm,79 kg,https://media.api-sports.io/football/players/983.png,168,Bayer Leverkusen,78,Bundesliga 1,30,2147,Attacker,7.303333,21,41,9,8.0,48,74,0,0
+I. Bebou,27,Togo,185 cm,80 kg,https://media.api-sports.io/football/players/25389.png,167,1899 Hoffenheim,78,Bundesliga 1,32,2201,Attacker,6.934375,19,43,9,7.0,39,43,0,0
+P. Schick,25,Czech Republic,191 cm,85 kg,https://media.api-sports.io/football/players/794.png,168,Bayer Leverkusen,78,Bundesliga 1,29,1865,Attacker,6.917241,21,49,9,1.0,27,20,0,0
+V. Grifo,28,Italy,180 cm,72 kg,https://media.api-sports.io/football/players/26248.png,160,SC Freiburg,78,Bundesliga 1,31,2327,Midfielder,7.241935,27,48,9,10.0,67,31,4,0
+M. Reus,32,Germany,180 cm,71 kg,https://media.api-sports.io/football/players/25.png,165,Borussia Dortmund,78,Bundesliga 1,32,2294,Attacker,7.090625,25,41,8,6.0,50,42,0,2
+A. Hahn,31,Germany,185 cm,80 kg,https://media.api-sports.io/football/players/25298.png,170,FC Augsburg,78,Bundesliga 1,29,2047,Midfielder,6.865517,14,28,8,3.0,18,17,0,0
+M. Thuram,24,France,192 cm,88 kg,https://media.api-sports.io/football/players/21509.png,163,Borussia Monchengladbach,78,Bundesliga 1,29,1740,Attacker,6.858620,21,43,8,2.0,17,45,0,0
+J. Sancho,21,England,180 cm,76 kg,https://media.api-sports.io/football/players/18.png,165,Borussia Dortmund,78,Bundesliga 1,26,2069,Attacker,7.561538,17,33,8,11.0,70,77,1,0
+L. Messi,34,Argentina,170 cm,72 kg,https://media.api-sports.io/football/players/154.png,529,Barcelona,140,La Liga,35,3022,Attacker,8.342857,91,141,30,9.0,81,160,3,2
+K. Benzema,34,France,185 cm,81 kg,https://media.api-sports.io/football/players/759.png,541,Real Madrid,140,La Liga,34,2902,Attacker,7.452941,55,98,23,9.0,38,39,1,0
+Gerard Moreno,29,Spain,180 cm,77 kg,https://media.api-sports.io/football/players/1707.png,533,Villarreal,140,La Liga,33,2682,Attacker,7.566666,47,78,23,7.0,44,71,10,0
+L. Suárez,34,Uruguay,182 cm,86 kg,https://media.api-sports.io/football/players/157.png,530,Atletico Madrid,140,La Liga,32,2521,Attacker,7.215625,43,87,21,3.0,27,13,3,0
+Y. En-Nesyri,24,Morocco,189 cm,73 kg,https://media.api-sports.io/football/players/47422.png,536,Sevilla,140,La Liga,38,2312,Attacker,6.934210,29,68,18,,15,15,0,0
+A. Isak,22,Sweden,190 cm,70 kg,https://media.api-sports.io/football/players/2864.png,548,Real Sociedad,140,La Liga,34,2361,Attacker,6.988235,42,63,17,2.0,10,38,0,1
+Iago Aspas,34,Spain,176 cm,67 kg,https://media.api-sports.io/football/players/47445.png,538,Celta Vigo,140,La Liga,33,2871,Attacker,7.490909,27,43,14,13.0,64,60,5,0
+Morales,34,Spain,180 cm,70 kg,https://media.api-sports.io/football/players/47467.png,539,Levante,140,La Liga,38,2454,Midfielder,6.907894,27,47,13,3.0,34,31,0,1
+A. Griezmann,30,France,176 cm,73 kg,https://media.api-sports.io/football/players/56.png,529,Barcelona,140,La Liga,36,2619,Attacker,7.213888,34,62,13,7.0,42,26,1,1
+Rafa Mir,24,Spain,191 cm,86 kg,https://media.api-sports.io/football/players/47013.png,726,Huesca,140,La Liga,38,2880,Attacker,6.889473,46,104,13,1.0,9,14,2,1
+Marcos Llorente,26,Spain,184 cm,74 kg,https://media.api-sports.io/football/players/753.png,530,Atletico Madrid,140,La Liga,37,2959,Midfielder,7.202702,22,41,12,11.0,45,39,0,0
+Kike,32,Spain,186 cm,79 kg,https://media.api-sports.io/football/players/47396.png,545,Eibar,140,La Liga,37,3105,Attacker,7.159459,34,75,12,2.0,26,36,0,0
+Santi Mina,26,Spain,181 cm,77 kg,https://media.api-sports.io/football/players/934.png,538,Celta Vigo,140,La Liga,34,2422,Attacker,6.882352,22,41,12,3.0,15,10,1,0
+Roger Martí,30,Spain,179 cm,74 kg,https://media.api-sports.io/football/players/47471.png,539,Levante,140,La Liga,33,2209,Attacker,6.881818,23,40,12,4.0,18,14,2,2
+A. Budimir,30,Croatia,190 cm,75 kg,https://media.api-sports.io/football/players/46746.png,727,Osasuna,140,La Liga,30,1622,Attacker,6.865517,22,38,11,,9,13,0,0
+Joselu,31,Spain,192 cm,80 kg,https://media.api-sports.io/football/players/18907.png,542,Alaves,140,La Liga,37,3037,Attacker,7.100000,33,71,11,3.0,30,28,2,2
+Borja Iglesias,28,Spain,187 cm,86 kg,https://media.api-sports.io/football/players/47348.png,543,Real Betis,140,La Liga,28,1412,Attacker,6.811111,16,28,11,,6,10,5,0
+Mikel Oyarzabal,24,Spain,181 cm,78 kg,https://media.api-sports.io/football/players/47323.png,548,Real Sociedad,140,La Liga,33,2430,Attacker,7.181818,27,46,11,8.0,52,23,6,1
+Carlos Soler,24,Spain,180 cm,76 kg,https://media.api-sports.io/football/players/930.png,532,Valencia,140,La Liga,32,2737,Midfielder,7.300000,17,27,11,8.0,45,25,7,2
+Á. Correa,26,Argentina,171 cm,70 kg,https://media.api-sports.io/football/players/53.png,530,Atletico Madrid,140,La Liga,38,2409,Attacker,6.936842,23,41,9,8.0,38,53,0,0
